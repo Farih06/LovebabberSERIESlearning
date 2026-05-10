@@ -22,7 +22,7 @@ public class hdiamond {
         }
         //part 4
         for(int i=1;i<=n;i++){
-            for(int j=n;j<=1;j++){
+            for(int j=n;j<=1;j--){
                 System.out.print("*");
             }
             System.out.println();
